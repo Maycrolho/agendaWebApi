@@ -203,6 +203,7 @@ $tituloMes = ucfirst($nombresMes[(int) $mesActual->format('n') - 1]) . ' ' . $me
             <nav class="nav">
                 <a href="#inicio">Inicio</a>
                 <a href="#agenda">Agenda</a>
+                <a href="explorar.php">Explorar</a>
                 <a href="#calendario">Calendario</a>
                 <a href="#contacto">Contacto</a>
             </nav>
